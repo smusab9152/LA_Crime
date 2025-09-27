@@ -26,7 +26,7 @@ The data includes (but may not be limited to) crime incident types, locations (e
 
 ### Prerequisites
 
-- Python 3.7+  
+- Python 3.10.18
 - Environment management tool (`conda`)  
 - Packages as specified in `environment.yml`  
 
