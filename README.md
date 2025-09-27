@@ -2,7 +2,7 @@
 
 A data analysis & machine learning project focused on crime trends in Los Angeles. This repository includes data preprocessing, exploratory data analysis (EDA), visualizations, and predictive modeling efforts.
 
-## 📌 Project Overview
+## Project Overview
 
 The goal of this project is to explore and analyze crime data from Los Angeles to uncover patterns and, where possible, build a predictive model to forecast crime occurrences. The project covers:
 
@@ -13,7 +13,7 @@ The goal of this project is to explore and analyze crime data from Los Angeles t
 
 ---
 
-## 📊 Data
+## Dataset
 
 - **`LA_Crime_dataset.csv`** — the primary dataset used for analysis  
 - **`regression dataset/`** — contains derived/processed data used for modeling  
@@ -22,12 +22,12 @@ The data includes (but may not be limited to) crime incident types, locations (e
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
 - Python 3.7+  
-- Environment management tool (e.g. `conda` or `venv`)  
+- Environment management tool (`conda`)  
 - Packages as specified in `environment.yml`  
 
 ### Installation
