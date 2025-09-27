@@ -37,3 +37,6 @@ The data includes (but may not be limited to) crime incident types, locations (e
    ```bash
    git clone https://github.com/smusab9152/LA_Crime.git
    cd LA_Crime
+2. Clone the enviroment in conda:
+   ```bash
+   conda env create -f enviroment.yml
