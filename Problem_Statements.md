@@ -1,9 +1,10 @@
 # Problem Statements
 ## 1. Regression (Forecasting & Trends)
-
-- “Can we predict the number of crimes that will occur in a given month in Los Angeles using past data, area, and premise information?”
-- “Does the time of day (hour) significantly influence crime frequency, and can we build a regression model to predict hourly crime counts?”
-- “Can victim demographics (age, sex, descent) improve the accuracy of predicting monthly crime volumes across different areas?”
+### **Algorithms Used**: Linear Regression, Multiple Linear Regression and Random Forest Regressor
+- Predicting number of crimes based on hour of the day.
+- Predicting number of crimes in a given month. 
+- Predicting number of crimes based on the hour of the day and month of the year.
+- Predicting monthly crime volumns accross different areas with victim demographics(age,sex,descent).
 
 ## 2. Binary Classification
 
