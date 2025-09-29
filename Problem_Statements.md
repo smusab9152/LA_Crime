@@ -1,5 +1,5 @@
 # Problem Statements
-## 1. Regression (Forecasting & Trends)
+## 1. Regression Models
 ### **Algorithms Used**: Linear Regression, Multiple Linear Regression and Random Forest Regressor
 - Predicting number of crimes based on hour of the day.
 - Predicting number of crimes in a given month. 
