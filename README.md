@@ -1,6 +1,7 @@
 # LA_Crime
 
 A data analysis & machine learning project focused on crime trends in Los Angeles. This repository includes data preprocessing, exploratory data analysis (EDA), visualizations, and predictive modeling efforts.
+<img width="540" height="1049" alt="image" src="https://github.com/user-attachments/assets/cd024531-ea2c-4b3e-bd41-24a3221ceec6" />
 
 ## Project Overview
 
